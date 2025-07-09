@@ -3,7 +3,7 @@ export DB_HOST="127.0.0.1"
 export DB_PORT="3306"
 export DB_DATABASE="pterodactyl"
 export DB_USERNAME="ptero_user"
-export DB_PASSWORD="GüçlüBirŞifre"
+export DB_PASSWORD=""
 
 source _common.sh
 source /usr/share/yunohost/helpers
